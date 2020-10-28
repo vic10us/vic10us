@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-twitter-16 (Twitter)
-[2.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-linkedin-16.png (LinkedIn)
-[3.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-twitch-16.png (Twitch)
-[4.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-discord-16.png (Discord)
+[1.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-twitter-circled-16.png (Twitter)
+[2.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-linkedin-circled-16.png (LinkedIn)
+[3.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-twitch-16-2.png (Twitch)
+[4.2]: https://raw.githubusercontent.com/vic10us/vic10us/main/icons8-discord-16-2.png (Discord)
 
 <!-- Links to your social media accounts -->
 
