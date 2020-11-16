@@ -1,10 +1,10 @@
 ### Hi there, I'm Keith (aka vic10us) 👋
-Engineer • Tech Streamer • Content creator
+Engineer • Tech Streamer • DIYer
 
-## _Build stuff, learn things, love what you do_
+## _Be kind to yourself and all those around you._
 
 ___
-I build things/stuff, but mostly try to help others build their own things.
+I am a quasi-polygot/jack-of-all-trades that builds things with tech, but mostly I try to help others build their own things.
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
