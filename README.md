@@ -1,12 +1,10 @@
-### Hi there, I'm Keith (aka vic10us) 👋
+### Hi there 👋
 Engineer • Tech Streamer • DIYer
 
 ## _Be kind to yourself and all those around you._
 
 ___
 I am a quasi-polygot/jack-of-all-trades that builds things with tech, but mostly I try to help others build their own things.
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [![vic10usx on Twitch][3.2]][3] vic10usx on Twitch
 
@@ -40,6 +38,4 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/vic10us
-[2]: https://www.linkedin.com/in/keithahill/
-[3]: https://twitch.tv/vic10usx
-[4]: https://discord.gg/SMJNpA
+[2]: https://twitch.tv/vic10usx
