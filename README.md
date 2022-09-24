@@ -6,7 +6,7 @@ Engineer • Tech Streamer • DIYer
 ___
 I am a quasi-polygot/jack-of-all-trades that builds things with tech, but mostly I try to help others build their own things.
 
-[![vic10usx on Twitch][2.2]][2] vic10usx on Twitch
+[![vic10usx on Twitch][3.2]][2] vic10usx on Twitch
 
 ![vic10us's github stats](https://github-readme-stats.vercel.app/api?username=vic10us&count_private=true&show_icons=true&theme=algolia)
 
