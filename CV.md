@@ -1,49 +1,51 @@
-# IT Maestro and Innovation Alchemist🎺
+# IT Maestro and Innovation Alchemist 🎺
 
 With nearly three decades of triumphs in the ever-evolving landscape of computer engineering, I stand as a seasoned IT virtuoso. My expertise spans solution delivery, development prowess, and unwavering support, with a mastery that extends to large-scale consolidation endeavors, intricate data center choreography, and orchestrating cloud computing symphonies.
 
-## A Symphony of Success🎵
+## A Symphony of Success 🎵
 
 I proudly boast a proven track record of conducting cross-functional teams and spearheading corporate development initiatives from the conceptual overture through the harmonious phases of design, implementation, and ongoing support. My forte includes a deep understanding of Agile methodologies and the rhythmic flow of CI/CD pipelines, with a resume that showcases the seamless integration of DevOps best practices.
 
-## The Passionate Maestro🎼
+## The Passionate Maestro 🎼
 
 Beyond the code and algorithms, my true passion lies in coaching and nurturing talent, a commitment aimed at propelling both individual stars and the collective brilliance of teams toward resounding success. In my quest for the next challenge, I am on the lookout for a dynamic role within a forward-thinking company—a stage where I can leverage my seasoned expertise to compose innovative solutions and compose the score for business growth.
 
-## The Melody of Diverse Experience🎶
+## The Melody of Diverse Experience 🎶
 
 Having traversed the corridors of various industries, I bring forth a symphony of experiences and a treasure trove of knowledge. Consider me your adaptable troubadour, ready to leverage this extensive repertoire to ensure the success and harmony of your organization.
 
 In my hands, technology becomes an art form, and every project transforms into a masterpiece. Let's collaborate to compose the future and create a legacy of innovation.
 
-## ✨Fancy chart ✨
+## ✨ Fancy chart ✨
 
-```mermaid
-quadrantChart
-    title Skills
-    x-axis Low Interest --> High Interest
-    y-axis Low Skill --> High Skill
-    quadrant-1 LET'S DO IT!!!
-    quadrant-2 I'll do it... ugh
-    quadrant-3 Um... what?
-    quadrant-4 Want to grow...
-    C#: [0.9, 0.9]
-    Agile Dev: [0.8, 0.9]
-    Java: [0.15, 0.75]
-    DevOps: [0.85, 0.85]
-    CI/CD: [0.5, 0.75]
-    Networking: [0.35, 0.78]
-    IaC: [0.6, 0.8]
-    Virtualization: [0.55, 0.85]
-    k8s: [0.95, 0.75]
-    Docker: [0.95, 0.8]
-    Relational DB: [0.3, 0.7]
-    HTML & CSS: [0.55, 0.60]
-    Javascript: [0.55, 0.65]
-    FE Frameworks: [0.45, 0.55]
-    Visual Basic: [0.1, 0.1]
-    MongoDB: [0.8, 0.45]
-```
+<!-- ``mermaid -->
+<!-- quadrantChart -->
+<!-- title Skills -->
+<!-- x-axis Low Interest High Interest -->
+<!-- y-axis Low Skill High Skill -->
+<!-- quadrant-1 LET'S DO IT!!! -->
+<!-- quadrant-2 I'll do it... ugh -->
+<!-- quadrant-3 Um... what? -->
+<!-- quadrant-4 Want to grow... -->
+<!-- C#: [0.9, 0.9] -->
+<!-- Agile Dev: [0.8, 0.9] -->
+<!-- Java: [0.15, 0.75] -->
+<!-- DevOps: [0.85, 0.85] -->
+<!-- CI/CD: [0.5, 0.75] -->
+<!-- Networking: [0.35, 0.78] -->
+<!-- IaC: [0.6, 0.8] -->
+<!-- Virtualization: [0.55, 0.85] -->
+<!-- k8s: [0.95, 0.75] -->
+<!-- Docker: [0.95, 0.8] -->
+<!-- Relational DB: [0.3, 0.7] -->
+<!-- HTML & CSS: [0.55, 0.60] -->
+<!-- Javascript: [0.55, 0.65] -->
+<!-- FE Frameworks: [0.45, 0.55]-->
+<!--    Visual Basic: [0.1, 0.1] -->
+<!--    MongoDB: [0.8, 0.45] -->
+<!-- ``` -->
+
+![Skills](./skills-2023-12-21-023031.svg)
 
 _these are only a few of the things I'm interested in and/or have experience with. I'm always looking to learn new things and expand my horizons. ask me about anything you don't see here, I may have experience with it or be interested in learning more about it._
 
