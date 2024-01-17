@@ -43,7 +43,7 @@ In my hands, technology becomes an art form, and every project transforms into a
 <!-- FE Frameworks: [0.45, 0.55]-->
 <!--    Visual Basic: [0.1, 0.1] -->
 <!--    MongoDB: [0.8, 0.45] -->
-<!-- ``` -->
+<!-- `` -->
 
 ![Skills](./skills-2023-12-21-023031.svg)
 
