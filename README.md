@@ -14,8 +14,8 @@
 
 I am a quasi-polygot/jack-of-all-trades that builds things with tech, but mostly I try to help others build their own things.
 
-![vic10us's github stats](https://github-readme-stats.vercel.app/api?username=vic10us&count_private=true&show_icons=true&theme=algolia)
+![vic10us's github stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic10us&layout=compact&theme=algolia)](https://github.com/vic10us/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 [StreamerBot]: https://github.com/vic10us/StreamerBotCodeExamples (StreamerBot Code Examples)
